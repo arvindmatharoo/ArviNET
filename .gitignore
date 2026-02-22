@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+*.keras
+*.json
+.ipynb_checkpoints/
+.idea/
